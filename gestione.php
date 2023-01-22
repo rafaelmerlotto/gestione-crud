@@ -10,7 +10,7 @@ include_once "connessione.php";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style/style_bootstrap.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap" rel="stylesheet">
@@ -109,7 +109,7 @@ include_once "connessione.php";
                                 } ?></td>
                         <div class="col-md-8 ">
                             <?php echo "<a class='btn btn-outline-warning' target='_blank' href='modifica.php?studente_id=$id'>Modifica</a>" ?>
-                            <?php echo   "<a class='btn btn-outline-danger' href='cancellare.php?studente_id=$id'>cancellare</a>" ?>
+                            <?php echo   "<a class='btn btn-outline-danger' href='cancellare.php?studente_id=$id'>Cancellare</a>" ?>
                         </div>
                     </tr>
                 </tbody>

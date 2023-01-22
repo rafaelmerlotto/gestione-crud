@@ -5,7 +5,7 @@ use PgSql\Lob;
 //connessione con il database ultiliazando il PDO
 $host = "localhost";
 $user = "rafael";
-$pass = "basiliko";
+$pass = "";
 $dbname = "test_it";
 
 

@@ -1,0 +1,47 @@
+*{
+box-sizing: border-box;
+}
+body{
+    background-image:url(wallpaper-blue.jpg);
+   margin:0;
+   padding: 0;
+}
+header.container{
+    width: auto;
+    height: 720px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+div.title{
+    width: auto;
+    height: 100%;
+    margin-top: 160px;
+    font-size: 50px;
+}
+h1{
+    font-size: 70px;
+  color:#0c5460 ;
+}
+
+div.link{
+    width: auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-evenly;
+    margin-bottom: 120px;
+
+}
+a{
+   font-size: 20px;
+   color: rgb(12, 12, 30);
+}
+
+footer.autore{
+    margin-bottom: 0;
+}
+
