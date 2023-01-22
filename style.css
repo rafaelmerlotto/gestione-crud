@@ -1,0 +1,15 @@
+#form {
+    background-color: #F9F9F9;
+  }
+  
+  .blue {
+      color: #2CAFFD;
+  }
+  
+  #inputDado {
+      border-radius: 30px;
+      border: 1px solid #000;
+  }
+  .cadastrar{
+    display: flex;
+  }
