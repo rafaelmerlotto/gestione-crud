@@ -31,7 +31,7 @@
         </div>
 
         <footer class="autore">
-            <p>Creat by <strong>Rafael Merlotto</strong> </p>
+            <p>Create by <strong>Rafael Merlotto</strong> </p>
         </footer>
 
     </header>
